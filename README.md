@@ -9,6 +9,6 @@ run Server run Client
 
 send msg from server and client both.
 
-## contributions
-Fork the repo
+## Contributions
+`Fork the repo`
 open a new issue or request a feature.
