@@ -9,5 +9,9 @@ run Server run Client
 
 send msg from server and client both.
 
-"I will be adding new features to the app soon...so stay tuned".
-"I also welcome creative feedbacks from users and any suggestions on app features".
+## Contributions
+`Fork the repo`
+open a new issue or request a feature.
+Also please check if the issue does not exist already.
+
+`jdk-18`
