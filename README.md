@@ -1,5 +1,5 @@
 # ChatApplication
-Chat application using java Swing, AWT and socket programming
+Chat application using java Swing, AWT and socket programming.
 
 Installation- clone the repo
 
