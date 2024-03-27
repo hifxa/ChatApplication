@@ -12,5 +12,6 @@ send msg from server and client both.
 ## Contributions
 `Fork the repo`
 open a new issue or request a feature.
+Also please check if the issue does not exist already.
 
 `jdk-18`
